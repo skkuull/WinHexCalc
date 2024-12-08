@@ -182,7 +182,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int nCmdShow)
 	hwnd = CreateWindowEx(
 		WS_EX_CLIENTEDGE,
 		g_szClassName,
-		"WinHexCalc v0.2 - https://www.github.com/azlan/WinHexCalc",
+		"WinHexCalc v0.2 - Dark Mode by @skkuull",
 		WS_OVERLAPPEDWINDOW,
 		CW_USEDEFAULT, CW_USEDEFAULT, 630, 400,
 		NULL, NULL, hInstance, NULL);
